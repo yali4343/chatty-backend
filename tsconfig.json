@@ -4,7 +4,7 @@
     "module": "commonjs",
     "lib": ["DOM", "ES2015"],
     "baseUrl": ".",
-    "ignoreDeprecations": "5.0",
+    "ignoreDeprecations": "6.0",
     "outDir": "./build",
     "rootDir": "src",
     "strict": true,
